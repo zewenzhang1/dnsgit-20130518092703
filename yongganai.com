@@ -1,0 +1,5 @@
+NS(@, f1g1ns1.dnspod.net., 默认, 600, 0)
+NS(@, f1g1ns2.dnspod.net., 默认, 600, 0)
+NS(a, f1g1ns1.dnspod.net., 默认, 600, 0)
+A(mail, 1.2.3.8, 默认, 120, 0)
+A(test, 1.1.1.1, 默认, 120, 0)
